@@ -10,8 +10,8 @@ Client完成向Server发送一个文件。
 1. 多client并发传输。（数据正确性、多道传输实时百分比展示）
 2. 更好的UX。（UI与通信task的交互）
 3. Anything that makes your program more interesting ...
-########### V1.0.0 版本内容更新
-1. 新功能     aaaaaaaaa
-2. 新功能     bbbbbbbbb
-3. 新功能     ccccccccc
-4. 新功能     ddddddddd
+# V1.0.0 版本内容更新
+1. 实现服务器和客户端的UI显示
+2. 实现server端和client端传输窗口实时显示传输进度
+3. 实现多client并发传输
+
